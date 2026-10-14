@@ -1,0 +1,1927 @@
+[
+  {
+    "question": "A woman complains of problems going up steps. Tests reveal hip extension weakness but no issues with hip flexion or knee flexion or extension. What muscle is likely damaged?",
+    "choices": [
+      "Rectus Femoris",
+      "Gluteus Maximus",
+      "Biceps Femoris",
+      "Gluteus Medius"
+    ],
+    "correctIndex": 2,
+    "feedback": "Biceps femoris is a hamstring that assists hip extension and flexes the knee; however, the reported normal knee function makes this keyed answer questionable—see the review notes."
+  },
+  {
+    "question": "What are the synergist muscles to the diaphragm during inspiration?",
+    "choices": [
+      "Internal Intercostals",
+      "External Intercostals",
+      "Anterior Scalene",
+      "Sternocleidomastoid"
+    ],
+    "correctIndex": 1,
+    "feedback": "The external intercostals elevate the ribs during inspiration and work with the diaphragm to expand the thoracic cavity."
+  },
+  {
+    "question": "What is the acronym for the principles of Cold Hydrotherapy applications?",
+    "choices": [
+      "PRICE",
+      "PEACE",
+      "LOVE",
+      "CBAN"
+    ],
+    "correctIndex": 3,
+    "feedback": "CBAN summarizes the usual cold-application response: Cold, Burning, Aching, then Numbness. Stop or reassess if the response is atypical or unsafe."
+  },
+  {
+    "question": "Which of these groups includes only muscles that move the humerus but do NOT originate on the axial skeleton?",
+    "choices": [
+      "Serratus anterior, latissimus dorsi, trapezius",
+      "Deltoid, brachioradialis, latissimus dorsi, pectoralis major",
+      "Trapezius, pectoralis minor, pectoralis major, biceps brachii",
+      "Supraspinatus, teres major, teres minor, infraspinatus"
+    ],
+    "correctIndex": 3,
+    "feedback": "Supraspinatus, teres major, teres minor, and infraspinatus move the humerus and originate on the scapula rather than the axial skeleton."
+  },
+  {
+    "question": "What energizes the myosin head?",
+    "choices": [
+      "ACTH",
+      "ACh",
+      "ATP",
+      "GnRH"
+    ],
+    "correctIndex": 2,
+    "feedback": "ATP binds to the myosin head and is hydrolyzed to energize it for the cross-bridge cycle."
+  },
+  {
+    "question": "Contractions of myofibrils within a muscle fiber begins when:",
+    "choices": [
+      "Calcium is moved into the sarcoplasmic reticulum",
+      "Sodium enters the muscle fiber",
+      "Calcium is released from the sarcoplasmic reticulum",
+      "Acetylcholine binds to the muscle fiber"
+    ],
+    "correctIndex": 2,
+    "feedback": "Calcium released from the sarcoplasmic reticulum binds to troponin, moving tropomyosin and exposing actin-binding sites for myosin."
+  },
+  {
+    "question": "Which property of muscle gives it the ability to stretch without damage?",
+    "choices": [
+      "Extensibility",
+      "Flexibility",
+      "Contractability",
+      "Elasticity"
+    ],
+    "correctIndex": 0,
+    "feedback": "Extensibility is a muscle's ability to be lengthened or stretched without being damaged."
+  },
+  {
+    "question": "Excess amino acids in the body are:",
+    "choices": [
+      "Converted into proteins",
+      "Excreted in the urine",
+      "Excreted in the feces",
+      "Converted into glucose"
+    ],
+    "correctIndex": 3,
+    "feedback": "Excess amino acids cannot be stored as amino acids; after deamination, their carbon skeletons can be used for energy or converted to glucose or fat."
+  },
+  {
+    "question": "The deposition of cholesterol around smooth muscle fibers in arteries leads to fatty plaques that can cause serious damage or even death. Dietary changes should be employed to reduce the blood levels of:",
+    "choices": [
+      "High-density lipoproteins",
+      "Low-density lipoproteins",
+      "Essential fatty acids",
+      "Essential amino acids"
+    ],
+    "correctIndex": 1,
+    "feedback": "LDL carries cholesterol to tissues; elevated LDL can contribute to cholesterol deposition and atherosclerotic plaque formation in artery walls."
+  },
+  {
+    "question": "Which mineral is the most abundant mineral in the body?",
+    "choices": [
+      "Calcium",
+      "Sodium",
+      "Potassium",
+      "Magnesium"
+    ],
+    "correctIndex": 0,
+    "feedback": "Calcium is the body's most abundant mineral and is stored primarily in bones and teeth."
+  },
+  {
+    "question": "____ are used to reduce muscle tone, primarily to manage muscle spasms and spasticity.",
+    "choices": [
+      "Anti-Inflammatories",
+      "Anti-Spasmodics",
+      "Anti-Histamines",
+      "Analgesics"
+    ],
+    "correctIndex": 1,
+    "feedback": "Antispasmodic drugs are used to reduce muscle spasms or abnormal muscle tone; the term is broader than the options may imply."
+  },
+  {
+    "question": "A zygote is:",
+    "choices": [
+      "Another name for secondary oocyte",
+      "The mature ovarian follicle",
+      "A diploid fertilized ovum",
+      "The same as an ovum"
+    ],
+    "correctIndex": 2,
+    "feedback": "A zygote is the diploid cell formed when a sperm fertilizes an ovum."
+  },
+  {
+    "question": "Which hormone is secreted by the corpus luteum after ovulation?",
+    "choices": [
+      "FSH",
+      "LH",
+      "Progesterone",
+      "Testosterone"
+    ],
+    "correctIndex": 2,
+    "feedback": "After ovulation, the corpus luteum secretes progesterone, which helps maintain the uterine lining."
+  },
+  {
+    "question": "Which of the following are produced in and released from the ovaries?",
+    "choices": [
+      "Primary oocytes, estrogen, and testosterone",
+      "Primary oocytes, prolactin, and estrogen",
+      "Secondary oocytes, progesterone, and oxytocin",
+      "Secondary oocytes, estrogen, and progesterone"
+    ],
+    "correctIndex": 3,
+    "feedback": "The ovaries release secondary oocytes and produce estrogen and progesterone."
+  },
+  {
+    "question": "Which of the following is part of the shoulder joint?",
+    "choices": [
+      "Humeroradial",
+      "Humeroulnar",
+      "Costoclavicular",
+      "Acromioclavicular"
+    ],
+    "correctIndex": 3,
+    "feedback": "The acromioclavicular joint is part of the shoulder complex, formed by the acromion of the scapula and the clavicle."
+  },
+  {
+    "question": "Which of the following structures is the most responsible for providing low friction between two joint surfaces?",
+    "choices": [
+      "Synovial Fluid",
+      "Bursa",
+      "Tendon",
+      "Ligament"
+    ],
+    "correctIndex": 1,
+    "feedback": "Bursae are fluid-filled sacs that reduce friction between moving tissues, including around joints."
+  },
+  {
+    "question": "The best massage technique with which to treat adaptive shortening in postural dysfunction is:",
+    "choices": [
+      "Tapotement",
+      "Myofascial Release",
+      "Superficial Stroking",
+      "Manual Lymphatic Drainage"
+    ],
+    "correctIndex": 1,
+    "feedback": "Myofascial release is commonly used to address restrictions and adaptive shortening in soft tissues associated with postural dysfunction."
+  },
+  {
+    "question": "Which connective tissue technique would you first use to treat a scar?",
+    "choices": [
+      "Skin Rolling",
+      "Myofascial Release",
+      "Direct Fascia",
+      "Frictions"
+    ],
+    "correctIndex": 0,
+    "feedback": "Skin rolling gently lifts and rolls superficial tissues and may be used as an initial technique when assessing or treating a scar, depending on healing and tissue tolerance."
+  },
+  {
+    "question": "Your client has spasmodic torticollis. He would like to see if massage therapy might help him with pain and motor control. What muscles do you plan to focus on?",
+    "choices": [
+      "Omohyoid, Infrahyoid",
+      "Splenius Cervicis, Scalenes",
+      "Splenius Capitis, Scalenes",
+      "Sternocleidomastoid, Scalenes"
+    ],
+    "correctIndex": 3,
+    "feedback": "The sternocleidomastoid and scalenes can contribute to neck positioning and symptoms in torticollis; treatment must be adapted to the cause and irritability."
+  },
+  {
+    "question": "During a hot hydrotherapy application, you notice your client’s skin appears red and warm. Should you continue treatment?",
+    "choices": [
+      "No, this is a negative reaction",
+      "No, the red indicates inflammation",
+      "Yes, this is not ideal, but not a danger to the client",
+      "Yes, the red is simply vasodilation"
+    ],
+    "correctIndex": 3,
+    "feedback": "Warmth and redness can reflect heat-induced vasodilation, but skin response and client comfort must be monitored and the application stopped if there are signs of excessive heat or adverse response."
+  },
+  {
+    "question": "A client with hypotension should be given what kind of modification?",
+    "choices": [
+      "More water for sipping",
+      "Higher duration of application",
+      "No cryotherapy application",
+      "Limited full body heat"
+    ],
+    "correctIndex": 3,
+    "feedback": "Clients with hypotension may be more vulnerable to dizziness or faintness with extensive heat, so limiting full-body heat is a sensible precaution."
+  },
+  {
+    "question": "The reddening of skin as a result of heat application is called:",
+    "choices": [
+      "Ischemia",
+      "Hyperemia",
+      "Hypoxia",
+      "Hypertonic"
+    ],
+    "correctIndex": 1,
+    "feedback": "Hyperemia is increased blood flow to a tissue, often visible as redness after heat application."
+  },
+  {
+    "question": "Which of the following is not part of the upper respiratory system?",
+    "choices": [
+      "Nose",
+      "Pharnyx",
+      "Larnyx",
+      "Trachea"
+    ],
+    "correctIndex": 3,
+    "feedback": "The trachea is part of the lower respiratory tract; the upper respiratory tract generally includes the nose, nasal cavity, pharynx, and related structures."
+  },
+  {
+    "question": "Which of the following is a factor that does not affect hemoglobin’s affinity for oxygen?",
+    "choices": [
+      "Partial pressure of the oxygen",
+      "Partial pressure of the carbon dioxide",
+      "Blood pH",
+      "Respiratory rate"
+    ],
+    "correctIndex": 3,
+    "feedback": "Respiratory rate alone is not a direct factor determining hemoglobin's oxygen affinity; pH, carbon dioxide, temperature, and 2,3-BPG influence it."
+  },
+  {
+    "question": "An individual suffers a blood clot in an artery that delivers blood to his leg. The leg begins to take on a blue hue, becomes colder that the rest of his body and he experiences numbness in the leg. He is most likely experiencing:",
+    "choices": [
+      "Anemic hypoxia",
+      "Ischemic hypoxia",
+      "Hypoxic hypoxia",
+      "Hyperemic hypoxia"
+    ],
+    "correctIndex": 1,
+    "feedback": "Ischemic hypoxia occurs when inadequate blood flow deprives tissue of oxygen; a cold, blue, numb limb after an arterial clot is an emergency requiring immediate medical care."
+  },
+  {
+    "question": "Gonadotropin releasing hormones are released by which gland?",
+    "choices": [
+      "Hypophysis",
+      "Hypothalamus",
+      "Anterior Pituitary",
+      "Posterior Pituitary"
+    ],
+    "correctIndex": 1,
+    "feedback": "The hypothalamus secretes gonadotropin-releasing hormone (GnRH), which stimulates the anterior pituitary to release LH and FSH."
+  },
+  {
+    "question": "Which of the following anterior pituitary hormones stimulates the adrenal cortex to secrete cortisol?",
+    "choices": [
+      "Adrenocorticotropic hormone",
+      "Acetycholine hormone",
+      "Calcitrol",
+      "Prolactin"
+    ],
+    "correctIndex": 0,
+    "feedback": "ACTH (adrenocorticotropic hormone) from the anterior pituitary stimulates the adrenal cortex to release cortisol."
+  },
+  {
+    "question": "Along with the genitals, what part of the client must never be exposed?",
+    "choices": [
+      "Female nipple",
+      "Gluteal cleft",
+      "Gluteal muscles",
+      "Sternal angle"
+    ],
+    "correctIndex": 1,
+    "feedback": "The gluteal cleft, like the genitals, must remain covered during massage; follow applicable draping standards and consent requirements."
+  },
+  {
+    "question": "Client records must be kept for a minimum of:",
+    "choices": [
+      "18 years",
+      "16 years",
+      "10 years",
+      "8 years"
+    ],
+    "correctIndex": 2,
+    "feedback": "The keyed answer is 10 years, but exact Ontario record-retention requirements depend on the applicable regulation and whether the client was a minor; verify the current rule."
+  },
+  {
+    "question": "RMTs are governed by the following legislative guidelines:",
+    "choices": [
+      "RHPA, CMTCA, CMTO",
+      "RMTAO, CMTO, CMTCA",
+      "RHPA, RMTAO, MTA",
+      "CMTO, MTA, RHPA"
+    ],
+    "correctIndex": 3,
+    "feedback": "The Massage Therapy Act and Regulated Health Professions Act are legislation, while CMTO is the regulator; the answer combines these governance sources, though the option wording should be checked."
+  },
+  {
+    "question": "STRiVE is a program defined by what committee in the CMTO?",
+    "choices": [
+      "Registration",
+      "The Quality assurance",
+      "Fitness to Practice",
+      "Executive"
+    ],
+    "correctIndex": 1,
+    "feedback": "STRiVE is associated with the CMTO's Quality Assurance program, which supports ongoing professional learning and practice improvement."
+  },
+  {
+    "question": "The Age of consent in Children is:",
+    "choices": [
+      "10",
+      "12",
+      "16",
+      "18"
+    ],
+    "correctIndex": 1,
+    "feedback": "The keyed answer of 12 is questionable: Ontario health-care consent is generally based on capacity rather than a fixed age, while the age of consent for sexual activity is a different legal concept. Verify what this question intends."
+  },
+  {
+    "question": "RMT Chris pats his client on the bottom as she leaves his treatment room and tells her she is a ‘very sexy lady’ and that her husband is a ‘lucky guy.’ This is an example of:",
+    "choices": [
+      "Transference",
+      "Counter-Transference",
+      "Sexual Misconduct",
+      "Dual Relationship"
+    ],
+    "correctIndex": 2,
+    "feedback": "Sexualized touching and comments by a therapist toward a client can constitute sexual misconduct and violate professional boundaries."
+  },
+  {
+    "question": "Which of the following would indicate a lack of boundaries between client and therapist?",
+    "choices": [
+      "The client decides to refer a friend to their Massage Therapist.",
+      "The Massage Therapist asks permission from the client to contact the client’s doctor.",
+      "The Massage Therapist finds the client reminds them of their sister.",
+      "The client begins discussing the Massage Therapist’s personal life."
+    ],
+    "correctIndex": 3,
+    "feedback": "A client discussing a therapist's personal life does not, by itself, prove a boundary violation; the therapist must maintain appropriate boundaries. This keyed answer is questionable."
+  },
+  {
+    "question": "Information the client tells the therapist is recorded as:",
+    "choices": [
+      "Objective",
+      "Subjective",
+      "Interview",
+      "Intake"
+    ],
+    "correctIndex": 1,
+    "feedback": "Subjective information is what the client reports, such as their symptoms, experiences, and history."
+  },
+  {
+    "question": "How long is a term on the Board of Directors?",
+    "choices": [
+      "3 Years",
+      "5 Years",
+      "8 Years",
+      "1 Year"
+    ],
+    "correctIndex": 0,
+    "feedback": "The keyed answer is three years; confirm against the current CMTO governance/bylaw information because board terms can change."
+  },
+  {
+    "question": "Which is a power of the CMTO?",
+    "choices": [
+      "Modifying the Massage Therapy Act",
+      "Establishing Rules with the RMTAO",
+      "Vulnerable Sector Reports",
+      "Creating an RMT Registry"
+    ],
+    "correctIndex": 3,
+    "feedback": "Maintaining a public register of registered members is a regulatory function of the CMTO."
+  },
+  {
+    "question": "Which of the following is a position on the Board of Directors of the CMTO?",
+    "choices": [
+      "Chairman",
+      "Vice-President",
+      "Secretary",
+      "Legal Aid"
+    ],
+    "correctIndex": 1,
+    "feedback": "A vice-president is a possible board leadership position; confirm the precise current board structure if this is being used for a regulatory exam."
+  },
+  {
+    "question": "A report from the public regarding a member committing an act of professional misconduct gets forwarded to which committees?",
+    "choices": [
+      "First the Board of Directors, then the Complaints Committee",
+      "First the Complaints Committee, then the Board of Directors",
+      "First the Discipline and Fitness to Practice Committee, then the Board of Directors",
+      "First the Complaints Committee, then the Discipline Committee"
+    ],
+    "correctIndex": 3,
+    "feedback": "Complaints are initially considered through the Complaints Committee; matters referred onward may proceed to the Discipline Committee. The exact route depends on the regulatory process."
+  },
+  {
+    "question": "Why must we have standards of practice?",
+    "choices": [
+      "To prevent unnecessary lawsuits being filed against massage therapists",
+      "To help massage therapists decide the pricing of their treatments",
+      "To help the public understand what standard of quality should be met by RMTs",
+      "For the board of directors to be accountable to the public"
+    ],
+    "correctIndex": 2,
+    "feedback": "Standards of practice communicate the level of professional care the public can expect and guide safe, ethical practice."
+  },
+  {
+    "question": "An RMT may disclose medical or personal information about a patient without their written consent on which occasion?",
+    "choices": [
+      "When the RMT believes the client may have been sexually abused",
+      "When the RMT believes absolutely no harm will be done by doing so",
+      "When another RMT working at the same clinic needs access to it to provide healthcare",
+      "When it is asked for by the parent of someone under the age of 18"
+    ],
+    "correctIndex": 2,
+    "feedback": "Use or disclosure of personal health information without written consent depends on Ontario privacy law and the circumstances. Access within a circle of care may be permitted, but the keyed wording is broad and should be reviewed."
+  },
+  {
+    "question": "What can be done to secure the privacy of a client while they are changing positions?",
+    "choices": [
+      "Leaving the room",
+      "Ensuring the top blanket is removed",
+      "Securing the sheets during the change",
+      "Asking about their comfort level of the new position"
+    ],
+    "correctIndex": 2,
+    "feedback": "Securing the sheets during a position change preserves privacy and dignity while the client moves."
+  },
+  {
+    "question": "When must a client’s written informed consent be obtained for assessment and/or treatment of sensitive areas?",
+    "choices": [
+      "Only during the first session",
+      "Only when the client feels uncomfortable",
+      "At the end of the treatment plan",
+      "Prior to every assessment and/or treatment of sensitive areas"
+    ],
+    "correctIndex": 3,
+    "feedback": "Written informed consent is required before each assessment or treatment of a sensitive area, in accordance with applicable standards; consent must be ongoing."
+  },
+  {
+    "question": "What should a therapist do to promote a client’s involvement in their own health goals?",
+    "choices": [
+      "Consider client input and support their informed decision-making.",
+      "Minimize client input to avoid confusion.",
+      "Follow a standardized treatment plan without modifications.",
+      "Make all decisions for the client to ensure optimal care."
+    ],
+    "correctIndex": 0,
+    "feedback": "Client-centred care includes listening to client preferences and supporting informed decisions about their own health goals."
+  },
+  {
+    "question": "What should therapists do to ensure a client's continuing comfort and safety during treatment?",
+    "choices": [
+      "Ignore any intended and unintended effects and outcomes.",
+      "Disregard the client's preferences regarding the treatment environment.",
+      "Address any intended and unintended effects and outcomes as required.",
+      "Prioritize the therapist's convenience over the client's comfort."
+    ],
+    "correctIndex": 2,
+    "feedback": "Monitoring and responding appropriately to intended and unintended treatment effects supports ongoing comfort and safety."
+  },
+  {
+    "question": "You start treating a client who you become friendly with. After a few months, the client asks you out on a date. You are very attracted to them, and you want to date them. As an ethical massage therapist, what are you supposed to do?",
+    "choices": [
+      "Go out with client.",
+      "Decline and continue treating the client.",
+      "Refer the client, then you can date them.",
+      "Stop the therapeutic relationship, refer the client, and wait at least a year before considering dating."
+    ],
+    "correctIndex": 3,
+    "feedback": "An RMT must maintain professional boundaries. Ending the therapeutic relationship and referring the client does not automatically remove all ethical restrictions; the specific waiting-period claim should be checked against current CMTO standards."
+  },
+  {
+    "question": "What would you do if the client gets an erection?",
+    "choices": [
+      "Ignore it and hope the client does not notice you noticed.",
+      "Explain to the client that it is an autonomic nervous system response to massage and that it is a normal reaction.",
+      "Cover the client with extra blankets to hide the erection.",
+      "Turn the heat up in the room."
+    ],
+    "correctIndex": 1,
+    "feedback": "An erection can be an involuntary autonomic response. A calm, professional explanation can normalize it without sexualizing the interaction."
+  },
+  {
+    "question": "What ratio of water to bleach is used when disinfecting a massage table?",
+    "choices": [
+      "1:1",
+      "10:1",
+      "8:1",
+      "5:1"
+    ],
+    "correctIndex": 1,
+    "feedback": "The document's keyed dilution is 10 parts water to 1 part bleach; verify the disinfectant label and current public-health guidance because required dilution depends on product and intended use."
+  },
+  {
+    "question": "You treated a 10-year-old client. How long do you need to keep their records?",
+    "choices": [
+      "10 Years from their date of birth.",
+      "10 Years from the day they turn 18.",
+      "10 Years from their death.",
+      "Both answers b) and c)."
+    ],
+    "correctIndex": 3,
+    "feedback": "For minors, record-retention rules often extend beyond the usual period until the client reaches adulthood; the exact Ontario rule and the wording 'death' need verification."
+  },
+  {
+    "question": "Which of the following describes when you should update a client’s health history?",
+    "choices": [
+      "Semi-annually",
+      "At every appointment",
+      "When they turn 18",
+      "When there is a change in medical information"
+    ],
+    "correctIndex": 3,
+    "feedback": "Health history should be updated whenever relevant medical information changes, and it should also be reviewed routinely according to clinic policy."
+  },
+  {
+    "question": "According to Health Safety Standards, to keep clients safe you must:",
+    "choices": [
+      "Have bathroom facilities.",
+      "Lower the table as close to the ground as possible.",
+      "Keep equipment in good, safe condition.",
+      "Keep a fire extinguisher in the treatment room."
+    ],
+    "correctIndex": 2,
+    "feedback": "Keeping equipment in good and safe working condition is a direct health-and-safety responsibility."
+  },
+  {
+    "question": "Why is it particularly important to avoid seeing clients outside of the office setting?",
+    "choices": [
+      "It is against legal guidelines for the profession.",
+      "It could interfere with the practitioner's personal time.",
+      "It can lead to billing and scheduling complications.",
+      "It may complicate the professional boundary, especially with clients who have crushes."
+    ],
+    "correctIndex": 3,
+    "feedback": "Seeing clients outside the professional setting can blur boundaries and create complications, especially where personal or romantic feelings are involved."
+  },
+  {
+    "question": "How should practitioners handle clients' comfort levels with clothing removal?",
+    "choices": [
+      "Insist that clients remove all clothing for a proper massage.",
+      "Educate clients and respect whatever they feel comfortable with regarding clothing removal.",
+      "Allow clients to stay fully clothed and avoid discussing clothing removal at all.",
+      "Provide a standard protocol that all clients must follow regardless of comfort."
+    ],
+    "correctIndex": 1,
+    "feedback": "Explain options and respect the client's choice about clothing; never insist on undressing for a massage."
+  },
+  {
+    "question": "How would a mole present in such a way that an RMT might refer the client to a doctor?",
+    "choices": [
+      "The mole is brown.",
+      "The mole is flat but has a hair emerging from it.",
+      "The mole has been present for several years.",
+      "The mole’s edges have been changing."
+    ],
+    "correctIndex": 3,
+    "feedback": "A changing or irregular border is one of the ABCDE warning signs for a potentially concerning mole and warrants medical assessment."
+  },
+  {
+    "question": "Which special test can be used as a general mobility assessment of the shoulder complex?",
+    "choices": [
+      "Infraspinatus Stress Test",
+      "Apley’s Scratch Test",
+      "Upper Limb Tension Tests 1–4",
+      "Painful Arc"
+    ],
+    "correctIndex": 1,
+    "feedback": "Apley's Scratch Test screens functional shoulder mobility by combining movements such as reaching behind the head and behind the back."
+  },
+  {
+    "question": "In anatomical position, the radial pulse is palpated on the ____ side of the hand.",
+    "choices": [
+      "Anterior",
+      "Posterior",
+      "Medial",
+      "Lateral"
+    ],
+    "correctIndex": 3,
+    "feedback": "In anatomical position, the radial side is the lateral, thumb side of the hand."
+  },
+  {
+    "question": "The ideal progression of testing is:",
+    "choices": [
+      "Orthopedic, PR ROM, postural, palpation, and AF ROM",
+      "Postural, PR ROM, AF ROM, and orthopedic testing",
+      "Postural, palpation, AF ROM, PR ROM, AR ROM, and orthopedic testing",
+      "AR ROM, Palpation, postural, and AF ROM"
+    ],
+    "correctIndex": 2,
+    "feedback": "The listed sequence progresses from general observation and palpation to movement testing and then more specific orthopedic tests; the exact sequence may vary by assessment protocol."
+  },
+  {
+    "question": "Information about joint hypomobility and hypermobility is best assessed with:",
+    "choices": [
+      "Passive relaxed ROM",
+      "Active free ROM",
+      "Neurological testing",
+      "Active resisted ROM"
+    ],
+    "correctIndex": 0,
+    "feedback": "Passive relaxed range of motion helps assess joint mobility and end-feel without the client actively producing the movement."
+  },
+  {
+    "question": "Soft tissue approximation is described as:",
+    "choices": [
+      "A capsular stretch",
+      "A tissue stretch",
+      "Restriction due to muscle bulk",
+      "An abrupt or hard end feel"
+    ],
+    "correctIndex": 2,
+    "feedback": "Soft-tissue approximation is a firm end-feel caused by body parts or muscle bulk meeting and limiting further movement."
+  },
+  {
+    "question": "A client has pain and ‘crunch’ when extending their cervical spine during Spurling’s test. You would like to test for nerve root compression. What modification could be made to the test?",
+    "choices": [
+      "Have the client fully flex the head to check for neurological symptoms.",
+      "Apply pressure to the cervical spine in the neutral position.",
+      "Perform the Vertebral Artery test instead.",
+      "Perform thoracic outlet syndrome tests instead."
+    ],
+    "correctIndex": 1,
+    "feedback": "Testing in neutral avoids reproducing the painful extension position; however, suspected cervical nerve-root compression should be assessed cautiously and not forced."
+  },
+  {
+    "question": "According to the standards of practice, what is an essential part of interviewing the client to obtain their goals?",
+    "choices": [
+      "Determining what secondary conditions the client experiences",
+      "Determining contributing factors",
+      "Asking where the pain is on a scale of 1 to 10",
+      "Asking about family history of the pain"
+    ],
+    "correctIndex": 1,
+    "feedback": "Identifying contributing factors helps clarify the client's goals and informs an appropriate treatment plan."
+  },
+  {
+    "question": "A client reports severe, unremitting pain. What is the proper response?",
+    "choices": [
+      "Refer them to a doctor. Do not treat them.",
+      "Treat them with gentle techniques.",
+      "Perform a series of special tests to diagnose the condition.",
+      "Treat them normally, and then suggest they mention their condition to their doctor."
+    ],
+    "correctIndex": 0,
+    "feedback": "Severe, unremitting pain is a red flag that requires referral for medical assessment rather than routine massage or attempts to diagnose beyond scope."
+  },
+  {
+    "question": "During a dermatomal test, what constitutes a positive result?",
+    "choices": [
+      "Pain",
+      "Paresthesia",
+      "Muscle weakness",
+      "Decreased reflex response"
+    ],
+    "correctIndex": 1,
+    "feedback": "Paresthesia—an abnormal tingling or altered sensation—can be a positive sensory finding during dermatomal testing."
+  },
+  {
+    "question": "How does one perform Tinel’s sign on the posterior tibial nerve?",
+    "choices": [
+      "Tap medial to the tibial tubercle.",
+      "Tap just posterior to the medial malleolus.",
+      "Squeeze the gastrocnemius and soleus and observe the ankle for dorsiflexion.",
+      "Squeeze the distal iliotibial band as you passively extend the client’s knee."
+    ],
+    "correctIndex": 1,
+    "feedback": "The posterior tibial nerve passes behind the medial malleolus, so tapping there may reproduce tingling in a positive Tinel sign."
+  },
+  {
+    "question": "What is normal blood pressure in adults?",
+    "choices": [
+      "180–210 over 110–120",
+      "140–160 over 90–100",
+      "110–130 over 80–90",
+      "160–180 over 100–110"
+    ],
+    "correctIndex": 2,
+    "feedback": "The keyed range is presented as normal in this quiz, but it is an imprecise range: current adult blood-pressure categories generally consider diastolic values of 80–89 elevated, and 90 is high. Review the answer choices."
+  },
+  {
+    "question": "When performing range of motion, a client describes a mild pain during abduction of the glenohumeral joint. With which special test should one follow up?",
+    "choices": [
+      "Punch out test",
+      "Infraspinatus test",
+      "Upper limb tension tests",
+      "Drop arm test"
+    ],
+    "correctIndex": 3,
+    "feedback": "The drop-arm test can help assess a significant rotator-cuff tear when shoulder abduction is painful or weak; it is not a universal follow-up for every painful abduction."
+  },
+  {
+    "question": "Which of the following muscles has a trigger point pain referral directly over the kneecap?",
+    "choices": [
+      "Piriformis",
+      "Soleus",
+      "Rectus femoris",
+      "Tibialis anterior"
+    ],
+    "correctIndex": 2,
+    "feedback": "Rectus femoris trigger points can refer pain toward the anterior thigh and knee, including the area over the patella."
+  },
+  {
+    "question": "In the context of palpation, which of the following describe the tone of tissue?",
+    "choices": [
+      "Boggy edema",
+      "Very hypertonic muscles",
+      "Tight, inflamed skin",
+      "Cool, clammy skin"
+    ],
+    "correctIndex": 1,
+    "feedback": "Muscle tone describes the resting tension or resistance of muscle; marked hypertonicity is a description of tissue tone."
+  },
+  {
+    "question": "When testing the muscle strength of the deltoid muscle, the client’s muscle does not contract at all. What might this indicate?",
+    "choices": [
+      "The muscle contains myofascial trigger points.",
+      "A moderate strain in the acute phase.",
+      "A dislocation of the glenohumeral joint.",
+      "There is no nerve innervation to the muscle."
+    ],
+    "correctIndex": 3,
+    "feedback": "A complete lack of contraction may indicate severe motor nerve dysfunction or another serious impairment, but it requires further assessment and should not be diagnosed from this finding alone."
+  },
+  {
+    "question": "Which of the following is an example of a clinical impression?",
+    "choices": [
+      "The client reports pain in their quadriceps.",
+      "Thomas’ test was positive.",
+      "The client brought a doctors’ note stating they have Lateral Epicondylitis.",
+      "The client has signs and symptoms of Degenerative Disk Disease."
+    ],
+    "correctIndex": 3,
+    "feedback": "A clinical impression is the practitioner's reasoned interpretation of the findings, rather than simply a client report, test result, or outside diagnosis."
+  },
+  {
+    "question": "Which of the following assessment findings is consistent with a client with Dupuytren contracture?",
+    "choices": [
+      "Active and passive range of motion reveal decreased extension of the 4th and 5th digit",
+      "Finkelstein test is positive",
+      "Froment’s ‘Paper’ sign is positive",
+      "Resisted strength testing shows an inability to flex the distal interphalangeal joints"
+    ],
+    "correctIndex": 0,
+    "feedback": "Dupuytren contracture causes thickening and contracture of palmar fascia, commonly limiting extension of the ring and little fingers."
+  },
+  {
+    "question": "The C4 myotome is:",
+    "choices": [
+      "Cervical spine flexion",
+      "Cervical spine lateral flexion",
+      "Shoulder abduction",
+      "Shoulder elevation"
+    ],
+    "correctIndex": 3,
+    "feedback": "The C4 myotome is commonly associated with shoulder elevation via the upper trapezius; myotome charts can vary slightly by reference."
+  },
+  {
+    "question": "The reflex testing of C5, C6 is:",
+    "choices": [
+      "Biceps",
+      "Calcaneal tendon",
+      "Extensor digitorum",
+      "Triceps"
+    ],
+    "correctIndex": 0,
+    "feedback": "The biceps tendon reflex primarily assesses C5–C6 nerve roots."
+  },
+  {
+    "question": "Upon assessment of a client presenting with knee pain, you perform Apley’s distraction. Your client reports an increase in symptoms. Your client presents with a:",
+    "choices": [
+      "Meniscal injury",
+      "Ligamentous injury",
+      "Patellar fracture",
+      "Patellar tendinitis"
+    ],
+    "correctIndex": 1,
+    "feedback": "Apley's distraction reduces compression of the menisci and places more emphasis on ligamentous structures; increased symptoms can suggest ligament involvement but is not diagnostic alone."
+  },
+  {
+    "question": "A client has an increase in neurological symptoms after completing the following actions: wrist extension, shoulder depression and external rotation, finger extension, shoulder extension, elbow extension, and forearm supination. The most likely cause of their symptoms is a:",
+    "choices": [
+      "Complete median nerve injury",
+      "Compressed ulnar nerve",
+      "Complete radial nerve",
+      "Compressed median nerve"
+    ],
+    "correctIndex": 2,
+    "feedback": "The radial nerve contributes to wrist and finger extension, so symptoms provoked by this upper-limb neurodynamic position may implicate the radial nerve; the phrase 'complete radial nerve' is not a precise diagnosis."
+  },
+  {
+    "question": "A line drawn between the two posterior superior iliac spine is used as a bony landmark to locate which structure?",
+    "choices": [
+      "L5",
+      "S1",
+      "S2",
+      "Lumbar sacral joint"
+    ],
+    "correctIndex": 2,
+    "feedback": "A line between the posterior superior iliac spines is commonly used as a surface landmark for approximately S2."
+  },
+  {
+    "question": "The cervical prominence is in line with what bony landmark?",
+    "choices": [
+      "Scapular notch",
+      "Scapular spine",
+      "Superior angle",
+      "Inferior angle"
+    ],
+    "correctIndex": 2,
+    "feedback": "The C7 spinous process (vertebra prominens) is often near the level of the scapular spine, though individual variation affects surface landmarks."
+  },
+  {
+    "question": "If you were experiencing numbness in the dorsal lateral area of your hand (posterior web of thumb), what nerve could be affected?",
+    "choices": [
+      "Radial",
+      "Ulnar",
+      "Median",
+      "Medial"
+    ],
+    "correctIndex": 0,
+    "feedback": "The superficial branch of the radial nerve supplies sensation to the dorsolateral hand, including the dorsal first web space."
+  },
+  {
+    "question": "When testing for TOS, which of the following tests is considered the most reliable?",
+    "choices": [
+      "Eden’s",
+      "Wright’s",
+      "Modified Adson’s",
+      "Roo’s"
+    ],
+    "correctIndex": 3,
+    "feedback": "The Roos/EAST test is often taught as a screening test for thoracic outlet syndrome, but no provocative TOS test is highly reliable on its own; this answer-key claim should be treated cautiously."
+  },
+  {
+    "question": "How can you detect the difference between bursitis, tendinitis, and tenosynovitis?",
+    "choices": [
+      "Mechanism of injury",
+      "Signs and symptoms of injury",
+      "Stage of injury",
+      "Physiology of inflammation"
+    ],
+    "correctIndex": 1,
+    "feedback": "The pattern of symptoms and examination findings helps distinguish bursitis, tendinopathy, and tenosynovitis; no single feature is definitive in every case."
+  },
+  {
+    "question": "Which structure primarily prevents the tibia from anterior displacement?",
+    "choices": [
+      "Medial collateral ligament",
+      "Lateral collateral ligament",
+      "Anterior cruciate ligament",
+      "Posterior cruciate ligament"
+    ],
+    "correctIndex": 2,
+    "feedback": "The anterior cruciate ligament resists anterior translation of the tibia relative to the femur."
+  },
+  {
+    "question": "What is the trigger point referral pattern for subscapularis?",
+    "choices": [
+      "Into the shoulder, same side as trigger point.",
+      "Top of head",
+      "Posterior aspect of scapula",
+      "Down the arm, round the wrist like a wristwatch"
+    ],
+    "correctIndex": 3,
+    "feedback": "Subscapularis trigger points may refer pain down the posterior or medial arm and around the wrist in a band-like pattern, depending on the trigger-point map used."
+  },
+  {
+    "question": "The referral pattern of this trigger point is into the neck and anterior deltoid muscle:",
+    "choices": [
+      "Anterior scalene",
+      "SCM",
+      "Suboccipital",
+      "Upper trap"
+    ],
+    "correctIndex": 0,
+    "feedback": "Anterior scalene trigger points can refer pain into the neck and anterior shoulder/deltoid region."
+  },
+  {
+    "question": "What do you do if a client is having a seizure on the table?",
+    "choices": [
+      "Call 911 immediately.",
+      "Try to move them onto the floor.",
+      "Put a towel in their mouth.",
+      "Stay with them and try and protect them until the seizure is over."
+    ],
+    "correctIndex": 3,
+    "feedback": "Protect the person from nearby hazards, do not restrain them or put anything in their mouth, time the seizure, and stay with them. Call emergency services if it is prolonged, repeated, a first seizure, or there are breathing/injury concerns; the keyed response may be incomplete."
+  },
+  {
+    "question": "Which of the following can cause a claw hand deformity?",
+    "choices": [
+      "Radial nerve lesion",
+      "Axillary nerve lesion",
+      "Ulnar nerve lesion",
+      "Median nerve lesion"
+    ],
+    "correctIndex": 2,
+    "feedback": "An ulnar nerve lesion can weaken intrinsic hand muscles and produce clawing, especially of the ring and little fingers."
+  },
+  {
+    "question": "Which nerve is affected when someone has a drop-foot gait?",
+    "choices": [
+      "Common fibular",
+      "Medial plantar",
+      "Lateral plantar",
+      "Tibial nerve"
+    ],
+    "correctIndex": 0,
+    "feedback": "The common fibular (peroneal) nerve supplies muscles that dorsiflex the ankle; injury can cause foot drop."
+  },
+  {
+    "question": "Which of the following is common with hyperlordosis?",
+    "choices": [
+      "Posterior pelvic tilt",
+      "Anterior pelvic tilt",
+      "Tight abdominal muscles",
+      "Weak quadriceps muscles"
+    ],
+    "correctIndex": 1,
+    "feedback": "Hyperlordosis is commonly associated with an anterior pelvic tilt, although individual postural patterns vary."
+  },
+  {
+    "question": "If the dorsal pedis pulse is missing, which artery is involved?",
+    "choices": [
+      "Dorsal metatarsal",
+      "Anterior tibia",
+      "Posterior tibia",
+      "Saphenous"
+    ],
+    "correctIndex": 1,
+    "feedback": "The dorsalis pedis artery is the continuation of the anterior tibial artery; an absent pulse warrants clinical assessment rather than relying on a single palpation finding."
+  },
+  {
+    "question": "An adolescent with pain below the knee and tearing at the tibial tuberosity could be experiencing which of the following conditions?",
+    "choices": [
+      "Osgood-Schlatter disease",
+      "Marfan syndrome?",
+      "Ankylosing spondylitis",
+      "Rickets disease"
+    ],
+    "correctIndex": 0,
+    "feedback": "Osgood-Schlatter disease causes traction-related pain and tenderness at the tibial tuberosity in growing adolescents."
+  },
+  {
+    "question": "What is the indication of Gaenslen’s test?",
+    "choices": [
+      "Sciatic nerve lesion",
+      "SI dysfunction",
+      "Lumbar spine subluxation",
+      "Knee dysfunction"
+    ],
+    "correctIndex": 1,
+    "feedback": "Gaenslen's test stresses the sacroiliac region and may help assess SI-joint-related pain, but it is not diagnostic in isolation."
+  },
+  {
+    "question": "The trigger point that refers to pain to the top of the head is called:",
+    "choices": [
+      "Upper trap",
+      "Splenius capitis",
+      "Longus capitis",
+      "Posterior Scalene"
+    ],
+    "correctIndex": 1,
+    "feedback": "Splenius capitis trigger points can refer pain toward the top or vertex of the head."
+  },
+  {
+    "question": "Pain that is deep and usually occurs at night is often coming from:",
+    "choices": [
+      "Bone",
+      "Muscle",
+      "Nerve",
+      "Poor circulation"
+    ],
+    "correctIndex": 0,
+    "feedback": "Deep, persistent pain that is worse at night can be associated with bone pathology and is a red flag requiring medical assessment, not a diagnosis by itself."
+  },
+  {
+    "question": "An open wound or lesion is considered to be:",
+    "choices": [
+      "A local contraindication",
+      "A general precaution",
+      "A local precaution",
+      "A general contraindication"
+    ],
+    "correctIndex": 2,
+    "feedback": "A wound is generally avoided locally until appropriately healed; whether it is classified as a local precaution or contraindication depends on the wound and applicable course terminology. Review this keyed answer."
+  },
+  {
+    "question": "A client has a gastrocnemius spasm on the table; what do you do?",
+    "choices": [
+      "Passive stretch to the gastrocnemius",
+      "Isotonic contraction of the gastrocnemius",
+      "Reciprocal inhibition (agonist contraction)",
+      "Apply ice"
+    ],
+    "correctIndex": 2,
+    "feedback": "Agonist contraction can use reciprocal inhibition to reduce activity in the opposing muscle and may help ease a cramp; assess the cause and avoid forceful stretching."
+  },
+  {
+    "question": "To stretch muscles involved with a tennis elbow, how would you place the arm?",
+    "choices": [
+      "Extend the elbow and flex the wrist with an open hand.",
+      "Flex the elbow and extend the wrist with an open hand.",
+      "Extend the elbow, flex the wrist, and make a fist.",
+      "Flex the elbow and extend the wrist."
+    ],
+    "correctIndex": 0,
+    "feedback": "To stretch the wrist extensors commonly involved in lateral epicondylalgia, extend the elbow and flex the wrist with the fingers open, adjusting to symptoms."
+  },
+  {
+    "question": "What are the primary goals for treating an acute stage of injury in a case where the injury was not due to a traumatic event?",
+    "choices": [
+      "Increase swelling",
+      "Decrease adhesions",
+      "Decrease muscle spasm",
+      "Increase ROM"
+    ],
+    "correctIndex": 2,
+    "feedback": "In an acute, non-traumatic presentation, reducing protective muscle spasm may be an appropriate initial goal, while avoiding aggravation and investigating the cause."
+  },
+  {
+    "question": "Which technique is most superficial?",
+    "choices": [
+      "Stroking",
+      "Stripping",
+      "Course vibrations",
+      "Stretching"
+    ],
+    "correctIndex": 0,
+    "feedback": "Stroking is a superficial gliding technique; stripping is more focused and generally deeper, while stretching is not a superficial massage stroke."
+  },
+  {
+    "question": "The principle of massage related to pressure is:",
+    "choices": [
+      "Superficial-deep-superficial",
+      "Proximal-distal-proximal",
+      "Deep-superficial-deep",
+      "Peripheral-central-peripheral"
+    ],
+    "correctIndex": 0,
+    "feedback": "The stated principle progresses from superficial to deeper pressure and back toward superficial work, allowing tissues to adapt and the treatment to conclude gently."
+  },
+  {
+    "question": "When performing hold-relax techniques to the levator scapula bilaterally, one would:",
+    "choices": [
+      "Contract neck flexors – stretch extensors.",
+      "Contract neck extensors – stretch flexors.",
+      "Contract neck flexor – stretch neck flexors.",
+      "Contract neck extensors – stretch neck extensors."
+    ],
+    "correctIndex": 3,
+    "feedback": "The keyed answer is questionable: hold-relax usually involves an isometric contraction of the target muscle followed by relaxation and stretch; contracting neck extensors while stretching them is not a clear description of a standard levator scapulae hold-relax setup."
+  },
+  {
+    "question": "Laying down a bag of groceries is a type of ________ exercise of the ________ muscle.",
+    "choices": [
+      "Concentric; biceps brachii",
+      "Eccentric; triceps brachii",
+      "Concentric; triceps brachii",
+      "Eccentric; biceps brachii"
+    ],
+    "correctIndex": 3,
+    "feedback": "Lowering a bag under control lengthens the elbow flexors while they produce force, so the biceps brachii acts eccentrically."
+  },
+  {
+    "question": "When applying hydrotherapy, what must be done to ensure client safety?",
+    "choices": [
+      "The client’s response to treatment is monitored.",
+      "The client is never unclothed during the treatment.",
+      "The length of the treatment never exceeds 15 minutes.",
+      "The treatment is discontinued when the client perspires."
+    ],
+    "correctIndex": 0,
+    "feedback": "Monitoring the client's response is essential during hydrotherapy because heat and cold can cause adverse reactions and individual tolerance varies."
+  },
+  {
+    "question": "Which of the following is the recommended treatment for abdominal massage for constipation?",
+    "choices": [
+      "Treatment 30 minutes after food intake",
+      "Treatment for a client with an episode of diarrhea",
+      "Deep pressure, vigorous treatment",
+      "Light to moderate pressure in a clockwise direction"
+    ],
+    "correctIndex": 3,
+    "feedback": "For constipation, gentle to moderate abdominal massage in a clockwise direction follows the general path of the colon; avoid it when contraindications are present."
+  },
+  {
+    "question": "Which of the following is a contraindication to massage treatment of sinusitis?",
+    "choices": [
+      "Massage with hypotension",
+      "Massage with an acute infection",
+      "Manual lymph drainage",
+      "Massage if client has finished course of antibiotics"
+    ],
+    "correctIndex": 1,
+    "feedback": "An acute infection is a reason to defer massage or use appropriate infection-control precautions; treatment decisions depend on severity and transmission risk."
+  },
+  {
+    "question": "When treating a client in the 3rd trimester of pregnancy in supine, a bolster is required under:",
+    "choices": [
+      "The left shoulder",
+      "The right shoulder",
+      "The left hip",
+      "The right hip"
+    ],
+    "correctIndex": 3,
+    "feedback": "A wedge under the right hip tilts the uterus to the left and can reduce aortocaval compression in late pregnancy when supine positioning is necessary; side-lying is often preferred if symptoms occur."
+  },
+  {
+    "question": "A client works a very high-stress job, which aggravated her insomnia. What is a goal for this treatment?",
+    "choices": [
+      "Decrease parasympathetic nervous system response",
+      "Decrease sympathetic nervous system response",
+      "Increase peripheral circulation",
+      "Decrease peripheral circulation"
+    ],
+    "correctIndex": 1,
+    "feedback": "Stress-related insomnia may be addressed by promoting relaxation and reducing sympathetic arousal rather than trying to decrease parasympathetic activity."
+  },
+  {
+    "question": "Asthma is an example of:",
+    "choices": [
+      "General caution",
+      "General contraindication",
+      "Local caution",
+      "Local contraindication"
+    ],
+    "correctIndex": 0,
+    "feedback": "Asthma is typically a general caution: consider current control, breathing comfort, triggers, medications, and positioning, and defer if the client is in acute respiratory distress."
+  },
+  {
+    "question": "What is a reasonable suggestion for what massage therapy might be able to do for a client with osteoporosis?",
+    "choices": [
+      "Massage therapy may help with calcium uptake and improved bone density.",
+      "Massage therapy may slow the progression of osteoporosis by improving digestion.",
+      "Massage therapy may help with some of the pain related to muscle spasm and postural problems.",
+      "Massage therapy increases bone density and decreases the need for osteoporosis drugs."
+    ],
+    "correctIndex": 2,
+    "feedback": "Massage does not increase bone density or treat osteoporosis itself, but appropriately modified treatment may help associated muscle tension, discomfort, and postural symptoms."
+  },
+  {
+    "question": "What is a possible adverse event related to massage therapy for a client with a history of shoulder dislocations?",
+    "choices": [
+      "Careless stretching or traction of the shoulder can cause a dislocation or subluxation.",
+      "This client is likely to have decreased range of motion at the shoulder; internal rotation should be done with great caution.",
+      "Deep or specific work to the rotator cuff muscles might cause the humerus to subluxate.",
+      "This client is at increased risk for bone spurs so shoulder massage should be superficial only."
+    ],
+    "correctIndex": 0,
+    "feedback": "A history of shoulder dislocation raises concern that forceful traction or stretching could provoke recurrent instability; avoid risky positions and techniques."
+  },
+  {
+    "question": "If a client has gastrointestinal reflux disease, what is the most desirable position for treatment?",
+    "choices": [
+      "Prone",
+      "Supine",
+      "Side lying",
+      "Semi-seated"
+    ],
+    "correctIndex": 3,
+    "feedback": "A semi-seated position may reduce reflux symptoms by elevating the upper body; tailor positioning to the client's comfort and symptoms."
+  },
+  {
+    "question": "A client suffering from Post-Traumatic Stress Disorder (PTSD) might display which symptoms during the treatment?",
+    "choices": [
+      "Cycles of hyperthermia and hypothermia",
+      "Lethargy",
+      "Difficulty relaxing",
+      "Dizziness"
+    ],
+    "correctIndex": 2,
+    "feedback": "PTSD may involve hypervigilance, anxiety, or difficulty relaxing during treatment; obtain consent, offer control and choice, and use trauma-informed care."
+  },
+  {
+    "question": "Therapeutic use of cold is also known as:",
+    "choices": [
+      "Cool therapy",
+      "Thermal therapy",
+      "Cold compression",
+      "Cryotherapy"
+    ],
+    "correctIndex": 3,
+    "feedback": "Cryotherapy is the therapeutic use of cold."
+  },
+  {
+    "question": "Your client suffers from hyperlordosis. What should be included in the treatment?",
+    "choices": [
+      "Lengthening of the rhomboids",
+      "Strengthening of the rectus abdominus",
+      "Lengthening of the hamstrings",
+      "Strengthening of the pectoralis major"
+    ],
+    "correctIndex": 1,
+    "feedback": "Strengthening the abdominal muscles, including rectus abdominis when appropriate, may help address an anterior pelvic tilt associated with hyperlordosis; assessment should guide exercise selection."
+  },
+  {
+    "question": "Which is a purpose of proprioceptive neuromuscular facilitation?",
+    "choices": [
+      "To relax the muscle spasm",
+      "To increase the strength of antagonist muscles",
+      "To stimulate the muscle spindles causing muscle fibre to contract",
+      "To stimulate GTO causing muscle fibre to contract"
+    ],
+    "correctIndex": 0,
+    "feedback": "PNF methods can use autogenic or reciprocal inhibition to help reduce muscle guarding or facilitate range; the exact mechanism depends on the technique."
+  },
+  {
+    "question": "Which of the following techniques would be indicated if your client presented with a subacute neck spasm?",
+    "choices": [
+      "Deep moist heat",
+      "GTO release to muscle spasm",
+      "Active resisted range of motion to neck in all directions",
+      "Passive stretching to muscle in spasm"
+    ],
+    "correctIndex": 1,
+    "feedback": "A gentle GTO-oriented release may be used for a subacute spasm when appropriate, but avoid forceful pressure and assess for red flags."
+  },
+  {
+    "question": "If a client presented with a swollen arm after a mastectomy, how would you treat her?",
+    "choices": [
+      "Refer out",
+      "Manual lymph drainage to alternate drainage routes of the body",
+      "Breast tissue massage",
+      "GFB massage to increase relaxation"
+    ],
+    "correctIndex": 1,
+    "feedback": "Post-mastectomy arm swelling may indicate lymphedema. Treatment should be provided by a therapist trained in appropriate lymphedema care; refer if not trained or if swelling is new or unexplained."
+  },
+  {
+    "question": "When lymph is draining from the anterior lower extremity, what is the direction of the pressure?",
+    "choices": [
+      "Into the back and then into axilla",
+      "Into the inguinals",
+      "Into the SI area",
+      "Into gluteals"
+    ],
+    "correctIndex": 1,
+    "feedback": "Superficial lymph from the lower limb generally drains toward the inguinal lymph nodes, following the appropriate regional pathways."
+  },
+  {
+    "question": "When is abdominal massage indicated?",
+    "choices": [
+      "Deep gastritis",
+      "Acute colitis",
+      "Somatic gastritis",
+      "Constipation"
+    ],
+    "correctIndex": 3,
+    "feedback": "Abdominal massage may be considered for constipation when no contraindications are present; acute inflammatory abdominal conditions are reasons to avoid it."
+  },
+  {
+    "question": "Your client is an amputee missing the right leg below the knee. What type of remedial exercise would you prescribe to a client who was recently post-op?",
+    "choices": [
+      "Isotonic concentric strengthening exercises for the thigh muscles",
+      "Isotonic eccentric strengthening exercises for the thigh muscles",
+      "Muscle setting or isometric exercises for the thigh",
+      "Cardiovascular fitness"
+    ],
+    "correctIndex": 2,
+    "feedback": "Early post-operative muscle-setting/isometric exercises can activate muscles without substantial joint movement, but the surgical team's protocol takes priority."
+  },
+  {
+    "question": "What type of joint mobilization would you perform to increase extension of the carpometacarpal joint of the thumb?",
+    "choices": [
+      "Anterior glide",
+      "Ulnar glide",
+      "Posterior glide",
+      "Radial glide"
+    ],
+    "correctIndex": 3,
+    "feedback": "The keyed radial glide for thumb CMC extension should be checked against the course's joint-mobilization rule and the specific joint position; the direction depends on the convex-concave relationship and movement being targeted."
+  },
+  {
+    "question": "What type of joint mobilization would you perform to increase adduction of the carpometacarpal joint of the thumb?",
+    "choices": [
+      "Anterior glide",
+      "Ulnar glide",
+      "Posterior glide",
+      "Radial glide"
+    ],
+    "correctIndex": 2,
+    "feedback": "The keyed posterior glide for thumb CMC adduction should be checked against the course's joint-mobilization rule and the specific joint position; the correct glide depends on joint mechanics."
+  },
+  {
+    "question": "Your client had gout in his foot several years ago and has never had a repeat episode. He is 62 years old and physically active. What accommodations does he require to receive massage?",
+    "choices": [
+      "He can only receive work that does not challenge his kidney or cardiovascular function.",
+      "His history of gout does not limit his ability to receive any massage that is within his pain tolerance.",
+      "He can receive work everywhere except for the affected foot, which is a local contraindication.",
+      "He can receive work only after getting clearance from his primary care physician."
+    ],
+    "correctIndex": 1,
+    "feedback": "A remote history of gout without current symptoms does not automatically prohibit massage; avoid treating an acutely inflamed joint and consider relevant comorbidities and tolerance."
+  },
+  {
+    "question": "What direction of pressure is used in lymph drainage?",
+    "choices": [
+      "Centripetal",
+      "Caudal",
+      "Cephalic",
+      "Centrifugal"
+    ],
+    "correctIndex": 0,
+    "feedback": "Lymphatic drainage generally directs lymph toward functioning proximal lymphatic territories, but 'centripetal' is a broad description rather than a complete technique instruction."
+  },
+  {
+    "question": "Your client has a Potts’ fracture from skiing; a cast has been on for eight weeks. What is the primary exercise?",
+    "choices": [
+      "Strength building using isotonic exercises",
+      "Increase circulation under the cast",
+      "Manual lymph drainage",
+      "Isometric exercise for hypotonic muscles"
+    ],
+    "correctIndex": 3,
+    "feedback": "After immobilization, isometric exercise can activate weakened muscles with little joint movement; follow fracture healing status and medical restrictions."
+  },
+  {
+    "question": "If you are treating scoliosis and the client has a left thoracic concavity and a compensating right lumbar concavity, what are your treatment objectives?",
+    "choices": [
+      "Strengthen the left thorax and stretch the left lumbar",
+      "Strengthen the right thorax and stretch the right lumbar",
+      "Strengthen the left thorax and stretch the right lumbar",
+      "Strengthen the right thorax and stimulate the right lumbar"
+    ],
+    "correctIndex": 1,
+    "feedback": "For a scoliotic concavity, treatment objectives may include lengthening shortened tissues on the concave side and strengthening the convex side, but individualized assessment and curve pattern matter; the keyed answer should be reviewed."
+  },
+  {
+    "question": "If the client had posterior cruciate ligament surgery, what is the first remedial exercise?",
+    "choices": [
+      "Isotonic exercises to the hamstring",
+      "Stretch a hamstring",
+      "Isometric exercises to the quadriceps",
+      "Stretch the quadriceps"
+    ],
+    "correctIndex": 2,
+    "feedback": "Quadriceps isometrics are commonly used early after knee surgery to maintain activation with limited joint movement, subject to the surgeon's rehabilitation protocol."
+  },
+  {
+    "question": "Your client with acute adhesive capsulitis is likely to be using analgesics to help manage her pain. What does this mean for massage?",
+    "choices": [
+      "You can add ice to your treatment because it will be less painful.",
+      "It is important to work conservatively to avoid overtreatment.",
+      "You can work more deeply and specifically to help ‘unglue’ sticky layers of fascia.",
+      "She needs to reschedule her massage for when her adhesive capsulitis has resolved."
+    ],
+    "correctIndex": 1,
+    "feedback": "Analgesics can mask pain that would otherwise signal excessive treatment, so use conservative pressure and monitor response carefully."
+  },
+  {
+    "question": "Celiac disease is an allergy to _______ and can kill the _______ in the digestive system.",
+    "choices": [
+      "Gluten, villi",
+      "Alcohol, mucosa epithelium",
+      "Yeast, bacteria",
+      "Mucous, mast cells"
+    ],
+    "correctIndex": 0,
+    "feedback": "Celiac disease is an immune-mediated response to gluten that damages the small-intestinal villi; it is not technically a simple food allergy."
+  },
+  {
+    "question": "Name the sphincter muscle (and/or valve) that separates the small and large intestine:",
+    "choices": [
+      "Upper esophageal valve",
+      "Lower esophageal sphincter muscle",
+      "Pyloric sphincter muscle",
+      "Ileocecal valve"
+    ],
+    "correctIndex": 3,
+    "feedback": "The ileocecal valve controls passage from the ileum of the small intestine into the cecum of the large intestine."
+  },
+  {
+    "question": "Which of the following is the best description of a Colles’ fracture?",
+    "choices": [
+      "Open fracture",
+      "Closed fracture",
+      "Fracture of the distal end of the fibula",
+      "Fracture of the distal end of the radius"
+    ],
+    "correctIndex": 3,
+    "feedback": "A Colles' fracture is a fracture of the distal radius, classically with dorsal displacement of the distal fragment."
+  },
+  {
+    "question": "Crohn’s disease is usually characterized by:",
+    "choices": [
+      "Peptic ulcer",
+      "Skin lesions",
+      "Esophageal varicoses",
+      "Small intestine ulcers"
+    ],
+    "correctIndex": 3,
+    "feedback": "Crohn's disease can cause patchy, transmural inflammation and ulcers anywhere from mouth to anus, often involving the terminal ileum; 'small intestine ulcers' is the closest option but incomplete."
+  },
+  {
+    "question": "The distal end of the descending colon is connected to the:",
+    "choices": [
+      "Rectum",
+      "Sigmoid colon",
+      "Transverse colon",
+      "Anus"
+    ],
+    "correctIndex": 1,
+    "feedback": "The descending colon continues into the sigmoid colon, which then joins the rectum."
+  },
+  {
+    "question": "Albinism is the inherited inability to produce:",
+    "choices": [
+      "Melanin",
+      "Carotene",
+      "Both melanin and carotene",
+      "Keratin"
+    ],
+    "correctIndex": 0,
+    "feedback": "Albinism involves reduced or absent melanin production due to inherited genetic changes affecting pigment production."
+  },
+  {
+    "question": "A sunburn is classified as a ________ degree burn.",
+    "choices": [
+      "1st",
+      "2nd",
+      "3rd",
+      "4th"
+    ],
+    "correctIndex": 0,
+    "feedback": "A typical uncomplicated sunburn is a superficial (first-degree) burn, although severe sunburn can blister and involve deeper injury."
+  },
+  {
+    "question": "In the condition of patellofemoral syndrome, what direction does the patella usually track creating the pain?",
+    "choices": [
+      "Medial",
+      "Lateral",
+      "Superior",
+      "Inferior"
+    ],
+    "correctIndex": 1,
+    "feedback": "Lateral patellar tracking is commonly described in patellofemoral pain teaching, but not every case follows this pattern; clinical findings vary."
+  },
+  {
+    "question": "Rheumatoid arthritis usually affects:",
+    "choices": [
+      "A hand or a foot (unilateral)",
+      "The hands and feet (bilateral)",
+      "The axial skeleton",
+      "The weight-bearing joints"
+    ],
+    "correctIndex": 1,
+    "feedback": "Rheumatoid arthritis commonly presents symmetrically, often affecting the small joints of both hands and feet."
+  },
+  {
+    "question": "A sprain is an injury to:",
+    "choices": [
+      "A ligament",
+      "A muscle",
+      "A joint capsule",
+      "A bone"
+    ],
+    "correctIndex": 0,
+    "feedback": "A sprain is an injury to a ligament; a strain involves muscle or tendon."
+  },
+  {
+    "question": "A disc herniation usually occurs due to:",
+    "choices": [
+      "An extension and rotation injury",
+      "An extension and lateral bending injury",
+      "A flexion and rotation injury",
+      "A flexion and lateral bending injury"
+    ],
+    "correctIndex": 2,
+    "feedback": "Combined flexion and rotation can increase stress on an intervertebral disc and may contribute to herniation, though disc herniation often has multiple contributing factors."
+  },
+  {
+    "question": "The muscle most commonly affected with Dupuytren’s contracture is:",
+    "choices": [
+      "Biceps brachii",
+      "Palmaris longus",
+      "Flexor carpi ulnaris",
+      "Brachioradialis"
+    ],
+    "correctIndex": 1,
+    "feedback": "Dupuytren's contracture is a disorder of the palmar fascia, not primarily a muscle disorder. Palmaris longus is not the structure that contracts; this question's wording is questionable."
+  },
+  {
+    "question": "Which disorder is characterized by pain and numbness travelling down the posterior thigh and leg to the heel of the foot?",
+    "choices": [
+      "Posterior compartment syndrome",
+      "Piriformis syndrome",
+      "Sciatica",
+      "Diabetic neuropathy"
+    ],
+    "correctIndex": 2,
+    "feedback": "Sciatica describes pain or altered sensation along the sciatic nerve distribution, often radiating down the posterior thigh and leg."
+  },
+  {
+    "question": "A client reports that her doctor has diagnosed her with a bulge in her joint capsule behind her knee. What does she probably have?",
+    "choices": [
+      "A ganglion cyst",
+      "A meniscus tear",
+      "Popliteal tunnel syndrome",
+      "A Baker cyst"
+    ],
+    "correctIndex": 3,
+    "feedback": "A Baker cyst is a fluid-filled swelling in the popliteal region behind the knee, commonly associated with joint conditions."
+  },
+  {
+    "question": "Compared to fast twitch muscle fibres, slow twitch muscle fibres tend to:",
+    "choices": [
+      "Fatigue quicker",
+      "Possess a greater density of glycolytic enzyme",
+      "Carry on sustained activities",
+      "Possess a greater density of mitochondria"
+    ],
+    "correctIndex": 2,
+    "feedback": "Slow-twitch (type I) fibres have high oxidative capacity and resist fatigue, supporting sustained activity."
+  },
+  {
+    "question": "What nerve innervates the piriformis muscle?",
+    "choices": [
+      "Sciatic",
+      "Femoral",
+      "Lesser gluteal",
+      "Nerve root branches of S1 and S2"
+    ],
+    "correctIndex": 3,
+    "feedback": "The nerve to piriformis typically arises from ventral rami of S1–S2, rather than being the sciatic nerve itself."
+  },
+  {
+    "question": "How does the body restore homeostasis after an increase in heart rate? What would occur first?",
+    "choices": [
+      "Digestive system starts working",
+      "Kidneys secrete more water",
+      "Vasodilation of blood vessels",
+      "Increase of parasympathetic impulses"
+    ],
+    "correctIndex": 3,
+    "feedback": "Increased parasympathetic activity helps slow the heart rate after it rises, restoring cardiovascular balance."
+  },
+  {
+    "question": "Which layer of the heart is prone to inflammation?",
+    "choices": [
+      "Myocardium",
+      "Pericardium",
+      "Sinoatrial node",
+      "Atrial valves"
+    ],
+    "correctIndex": 1,
+    "feedback": "Pericarditis is inflammation of the pericardium, the sac surrounding the heart; myocarditis affects the myocardium."
+  },
+  {
+    "question": "The outer wall of the heart is called:",
+    "choices": [
+      "Epicardium",
+      "Endocardium",
+      "Myocardium",
+      "Parietal pericardium"
+    ],
+    "correctIndex": 0,
+    "feedback": "The epicardium is the outer layer of the heart wall; the myocardium is the muscular middle layer and the endocardium lines the chambers."
+  },
+  {
+    "question": "Which of the following best describes a third-class lever?",
+    "choices": [
+      "The effort is between the fulcrum and the load.",
+      "The force is before the fulcrum and the resistance.",
+      "The force is after the fulcrum and resistance.",
+      "The fulcrum is between the effort and the load."
+    ],
+    "correctIndex": 0,
+    "feedback": "In a third-class lever, the effort is applied between the fulcrum and the load, as in many limb movements."
+  },
+  {
+    "question": "What is hypercapnia?",
+    "choices": [
+      "Increased carbon dioxide in the blood",
+      "Increased inspiration, decreased expiration",
+      "Decreased inspiration, increased expiration",
+      "Increased carbon monoxide in the blood"
+    ],
+    "correctIndex": 0,
+    "feedback": "Hypercapnia means an abnormally elevated level of carbon dioxide in the blood."
+  },
+  {
+    "question": "Which artery runs between the anterior and middle scalene?",
+    "choices": [
+      "Common carotid",
+      "Subclavian",
+      "Internal carotid",
+      "Jugular"
+    ],
+    "correctIndex": 1,
+    "feedback": "The subclavian artery passes between the anterior and middle scalene muscles; the subclavian vein passes anterior to the anterior scalene."
+  },
+  {
+    "question": "What is the hormone that increases blood sugar levels?",
+    "choices": [
+      "Calcitonin",
+      "Glucagon",
+      "Pepsin",
+      "Insulin"
+    ],
+    "correctIndex": 1,
+    "feedback": "Glucagon raises blood glucose by promoting hepatic glycogen breakdown and glucose production; insulin generally lowers blood glucose."
+  },
+  {
+    "question": "What kind of connective tissue forms the dermis of the skin?",
+    "choices": [
+      "Dense irregular connective tissue",
+      "Dense regular connective tissue",
+      "Loose connective tissue",
+      "Cartilage"
+    ],
+    "correctIndex": 0,
+    "feedback": "The dermis is primarily dense irregular connective tissue, with collagen fibres arranged in multiple directions to resist multidirectional stress."
+  },
+  {
+    "question": "An RMT tells a sexual joke and uses crude sexual language to refer to specific parts of the client’s body. This incident is reported to the College by the client. What would be the appropriate action for the College to take once they receive this complaint?",
+    "choices": [
+      "Forward the complaint to the Complaints Committee.",
+      "Forward the complaint to the Discipline Committee.",
+      "Have the Registrar suspend the therapist’s licence as soon as possible.",
+      "Have the Registrar revoke the therapist’s licence as soon as possible."
+    ],
+    "correctIndex": 0,
+    "feedback": "Complaints are generally screened and addressed through the Complaints Committee first; serious allegations may later be referred to discipline. Confirm the current CMTO process for this scenario."
+  },
+  {
+    "question": "The principle ‘Respect for Persons’ is defined as:",
+    "choices": [
+      "To value the dignity and worth of all persons, regardless of their age, race, culture, etc.",
+      "Providing sensitive, compassionate empathetic quality massage therapy.",
+      "To practice with integrity, honesty, and diligence.",
+      "To be accountable to society and conduct ourselves in a manner that fosters and promotes high ethical standards."
+    ],
+    "correctIndex": 0,
+    "feedback": "Respect for Persons means recognizing and valuing each person's dignity and worth, without discrimination."
+  },
+  {
+    "question": "What stage of healing involves rapid collagen growth from tissue proliferation?",
+    "choices": [
+      "Chronic",
+      "Late Subacute",
+      "Subacute",
+      "Acute"
+    ],
+    "correctIndex": 3,
+    "feedback": "Rapid collagen deposition is associated with the proliferative/subacute phase of wound healing, not usually the acute inflammatory phase; the keyed answer is likely incorrect."
+  },
+  {
+    "question": "What direction does the glenohumeral head commonly dislocate?",
+    "choices": [
+      "Inferior",
+      "Inferior and Lateral",
+      "Posterior and Lateral",
+      "Posterior"
+    ],
+    "correctIndex": 1,
+    "feedback": "Most glenohumeral dislocations are anterior, often described as anterior-inferior. The keyed 'inferior and lateral' option is imprecise and should be reviewed."
+  },
+  {
+    "question": "What special orthopedic test confirms nerve root dysfunction?",
+    "choices": [
+      "Kemps/Quadrants",
+      "Straight leg raise",
+      "Dermatomes/Myotomes",
+      "DTRs"
+    ],
+    "correctIndex": 2,
+    "feedback": "Dermatomes, myotomes, and reflexes help assess sensory, motor, and reflex changes associated with nerve-root dysfunction; they do not by themselves confirm a diagnosis."
+  },
+  {
+    "question": "What blood marker can be found in patients with Rheumatoid Arthritis?",
+    "choices": [
+      "Erythrocytes",
+      "HLA-B27",
+      "RF",
+      "Erythropoietin"
+    ],
+    "correctIndex": 2,
+    "feedback": "Rheumatoid factor (RF) may be present in rheumatoid arthritis, though it is not specific and can be negative in some patients."
+  },
+  {
+    "question": "What part of the Central Nervous System is the Enteric System governed by?",
+    "choices": [
+      "Sympathetic Nervous System",
+      "Parasympathetic Nervous System",
+      "Somatic Nervous System",
+      "Autonomic Nervous System"
+    ],
+    "correctIndex": 3,
+    "feedback": "The enteric nervous system is a division of the autonomic nervous system and is modulated by sympathetic and parasympathetic inputs."
+  },
+  {
+    "question": "What is the longest vein in the body?",
+    "choices": [
+      "Femoral",
+      "Great Saphenous",
+      "Superior vena cava",
+      "Inferior vena cava"
+    ],
+    "correctIndex": 1,
+    "feedback": "The great saphenous vein is generally recognized as the longest vein in the body."
+  },
+  {
+    "question": "What PNF technique is considered reciprocal inhibition?",
+    "choices": [
+      "Post Isometric Relaxation (PIR)",
+      "Contract Relax (CR)",
+      "Hold Relax (HR)",
+      "Agonist Contract (AC)"
+    ],
+    "correctIndex": 3,
+    "feedback": "Agonist contraction uses contraction of the opposing muscle group to facilitate relaxation of the target muscle through reciprocal inhibition."
+  },
+  {
+    "question": "What muscle is located on the back of the leg?",
+    "choices": [
+      "Quadratus Femoris",
+      "Biceps Femoris",
+      "Rectus Femoris",
+      "Piriformis"
+    ],
+    "correctIndex": 1,
+    "feedback": "Biceps femoris is one of the hamstrings on the posterior thigh; the other options are not posterior thigh muscles in the same way."
+  },
+  {
+    "question": "Order the Erector Spinae muscles from medial to lateral:",
+    "choices": [
+      "Iliocostalis, Spinalis, Longissimus",
+      "Spinalis, Iliocostalis, Longissimus",
+      "Spinalis, Longissimus, Iliocostalis",
+      "Iliocostalis, Longissimus, Spinalis"
+    ],
+    "correctIndex": 2,
+    "feedback": "From medial to lateral, the erector spinae columns are spinalis, longissimus, and iliocostalis."
+  },
+  {
+    "question": "What does Lachman’s test for?",
+    "choices": [
+      "MCL",
+      "LCL",
+      "ACL",
+      "PCL"
+    ],
+    "correctIndex": 2,
+    "feedback": "Lachman's test assesses the anterior cruciate ligament (ACL) by evaluating anterior translation of the tibia relative to the femur."
+  },
+  {
+    "question": "Which of the following leg muscles are phasic?",
+    "choices": [
+      "Gastrocnemius and Soleus",
+      "Tibialis Anterior and Fibularis",
+      "Rectus Femoris",
+      "Biceps Femoris"
+    ],
+    "correctIndex": 1,
+    "feedback": "Tibialis anterior and the fibularis muscles are commonly categorized as phasic in some postural-muscle teaching frameworks, but classifications can vary by source."
+  },
+  {
+    "question": "What structure(s) are affected with Lateral Epicondylitis?",
+    "choices": [
+      "Forearm Flexors",
+      "Forearm Extensors",
+      "Interosseus Membrane",
+      "Humero-ulnar Joint"
+    ],
+    "correctIndex": 1,
+    "feedback": "Lateral epicondylalgia typically involves the common wrist/finger extensor tendon origin, particularly extensor carpi radialis brevis."
+  },
+  {
+    "question": "What is another name for Medial Epicondylitis?",
+    "choices": [
+      "Tennis Elbow",
+      "Golfer’s Elbow",
+      "Pronator Teres Syndrome",
+      "Common Extensor Tendonitis"
+    ],
+    "correctIndex": 1,
+    "feedback": "Medial epicondylitis is commonly called golfer's elbow; lateral epicondylitis is commonly called tennis elbow."
+  },
+  {
+    "question": "What type of Thyroid condition causes Hashimoto’s Disease?",
+    "choices": [
+      "Hypothyroidism",
+      "Hyperthyroidism",
+      "Parathyroiditis",
+      "Grave’s Disease"
+    ],
+    "correctIndex": 0,
+    "feedback": "Hashimoto's thyroiditis commonly causes hypothyroidism as autoimmune damage reduces thyroid hormone production, though early transient hyperthyroidism can occur."
+  },
+  {
+    "question": "What is the primary goal as an RMT?",
+    "choices": [
+      "Client-centered treatment",
+      "Safe-effective treatment",
+      "Goal-oriented treatment",
+      "Outcome-based treatment"
+    ],
+    "correctIndex": 0,
+    "feedback": "RMT care should be client-centred: treatment planning should reflect the client's goals, needs, consent, and clinical findings."
+  },
+  {
+    "question": "What structure(s) are affected by Diastasis Recti?",
+    "choices": [
+      "Transverse Abdominus and Linea Alba",
+      "Rectus Abdominus and Linea Alba",
+      "Internal and External Obliques",
+      "Pubic Symphysis and SI joint"
+    ],
+    "correctIndex": 1,
+    "feedback": "Diastasis recti is separation/widening of the linea alba between the two rectus abdominis muscles."
+  },
+  {
+    "question": "How many treatments make up a treatment plan?",
+    "choices": [
+      "1-2",
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "correctIndex": 2,
+    "feedback": "A 4–6 treatment plan is a teaching guideline rather than a universal rule; plan length should be based on reassessment, goals, and response to treatment."
+  },
+  {
+    "question": "When is a re-assessment required?",
+    "choices": [
+      "After the first appointment",
+      "After the fourth appointment",
+      "After the treatment plan is complete",
+      "When new symptoms arise"
+    ],
+    "correctIndex": 3,
+    "feedback": "Reassessment is needed when symptoms or circumstances change and at appropriate intervals to evaluate progress; the keyed option may be too narrow depending on the course standard."
+  },
+  {
+    "question": "What temperature of water is considered standard for laundry disinfection?",
+    "choices": [
+      "Hot water",
+      "Warm water",
+      "Tepid water",
+      "Cold water"
+    ],
+    "correctIndex": 0,
+    "feedback": "Hot water is the keyed answer, but effective laundry disinfection depends on the machine cycle, detergent, temperature, and applicable infection-control standards; confirm the required standard."
+  },
+  {
+    "question": "Which of the following is not a guideline for anatomical draping procedures?",
+    "choices": [
+      "Sternal angle",
+      "Belt line",
+      "Inguinal line",
+      "Superior Iliac crest"
+    ],
+    "correctIndex": 2,
+    "feedback": "The inguinal line is not usually cited as a standard landmark for anatomical draping in the same way as the sternal angle, belt line, or iliac crest; follow the course's draping protocol."
+  },
+  {
+    "question": "Which of the following muscles is responsible for External Rotation of the hip joint?",
+    "choices": [
+      "Adductor Magnus",
+      "Sartorius",
+      "Piriformis",
+      "Tensor fasciae latae"
+    ],
+    "correctIndex": 2,
+    "feedback": "Piriformis is a hip external rotator, although several other muscles can also externally rotate the hip depending on hip position."
+  },
+  {
+    "question": "What cranial nerve is responsible for pure motor function of the tongue?",
+    "choices": [
+      "Glossopharyngeal",
+      "Hypoglossal",
+      "Facial",
+      "Trigeminal"
+    ],
+    "correctIndex": 1,
+    "feedback": "The hypoglossal nerve (CN XII) provides the primary motor innervation to the tongue muscles, except palatoglossus."
+  },
+  {
+    "question": "What is the longest period of time you can register as an inactive RMT?",
+    "choices": [
+      "3 years",
+      "2 years",
+      "12 months",
+      "6 months"
+    ],
+    "correctIndex": 0,
+    "feedback": "The keyed answer is three years, but the maximum time in an inactive registration class is a regulatory detail that can change; verify the current CMTO rule before relying on it."
+  }
+]
